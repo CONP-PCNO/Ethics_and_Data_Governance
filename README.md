@@ -1,4 +1,4 @@
-# Ethics and Data Governance
+# CONP Ethics and Data Governance: Tools for Navigating Ethical Issues in Open Neuroscience
 A repository for the outputs of the Ethics and Data Governance Committee of the CONP.
 
 [See here for more information about the Committee's work.](https://conp.ca/ethics-data-governance/)
