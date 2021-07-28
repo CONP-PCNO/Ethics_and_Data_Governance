@@ -1,4 +1,4 @@
-# CONP Portal Consent Elements\[1\]
+# CONP Consent Toolkit \[1\]
 
 |                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -12,11 +12,11 @@ The CONP accepts data sets in two situations:
 1.  Participants have prospectively consented to the sharing of their
     de-identified data through the CONP Portal.
 
-<!-- end list -->
-
-1.  Participants have not consented to the sharing of their data on the
+2.  Participants have not consented to the sharing of their data on the
     CONP Portal, but the consent given meets the core consent elements
     for retrospective consent.
+    
+    <!-- end list -->
 
 Each of these situations will be explained.
 
@@ -145,7 +145,7 @@ included on the CONP Portal.**
 
 | **Version** | **Date (YYYY-MM-DD)** | **Modification summary** |
 | ----------- | --------------------- | ------------------------ |
-| 1.0         | 2021-07-07            | Initial release          |
+| 1.0         | 2021-07-28            | Initial release          |
 
 **  
 **
