@@ -7,7 +7,7 @@ Here you will find:
 * [CONP Consent Toolkit](https://github.com/CONP-PCNO/Ethics_and_Data_Governance/blob/main/CONP%20Consent%20Toolkit.md)
 * [CONP De-Identification Toolkit](https://github.com/CONP-PCNO/Ethics_and_Data_Governance/blob/main/CONP%20De-Identification%20Toolkit.md)
 
-**[Releases]**(https://github.com/CONP-PCNO/Ethics_and_Data_Governance/releases)
+[Releases](https://github.com/CONP-PCNO/Ethics_and_Data_Governance/releases)
 
 These documents are meant to assist you in getting 3/4 of the way "there" when it comes to the design and conduct of your open neuroscience research projects. In paticular, our tools are aimed at facilitating the open sharing of de-iedntified neuro data.
 
