@@ -1,10 +1,6 @@
 # Canadian Open Neuroscience Platform: Privacy and De-identification Toolkit [1]
 
-# 
-
-|                                                                                                                                                                                                                                                                                                   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Unless otherwise noted, this work is licensed under [<u>Attribution 4.0 International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
+## Unless otherwise noted, this work is licensed under [<u>Attribution 4.0 International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
 
 The fundamental goal of protecting participant privacy is to prevent the
 identification of by others. In keeping with relevant guidance from
