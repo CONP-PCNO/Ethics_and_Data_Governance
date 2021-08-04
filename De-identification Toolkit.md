@@ -4,7 +4,7 @@
 
 |                                                                                                                                                                                                                                                                                                   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Unless otherwise noted, this work is licensed under [<u>Attribution 4.0 International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) <img src="media/image1.png" style="width:0.2035in;height:0.2035in" /><img src="media/image2.png" style="width:0.2035in;height:0.2035in" /> |
+| Unless otherwise noted, this work is licensed under [<u>Attribution 4.0 International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
 
 The fundamental goal of protecting participant privacy is to prevent the
 identification of by others. In keeping with relevant guidance from
