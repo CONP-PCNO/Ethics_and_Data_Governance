@@ -1,8 +1,6 @@
 # CONP Consent Toolkit \[1\]
 
-|                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Unless otherwise noted, this work is licensed under [<span class="underline">Attribution 4.0 International</span>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) ![](media/image1.png)![](media/image2.png) |
+## Unless otherwise noted, this work is licensed under [<span class="underline">Attribution 4.0 International</span>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) ![](media/image1.png)![](media/image2.png)
 
 This document assists researchers in contributing data sets to the
 Portal of the Canadian Open Neuroscience Platform (CONP).
