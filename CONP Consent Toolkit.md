@@ -103,7 +103,7 @@ Use the filter below to determine if the consent already obtained from participa
 **Annex 1. Example consent clauses for the essential consent elements.**
 
 | The example consent clauses are marked with [<u>CC0 1.0 Universal</u>](http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --------------------------------------------------------------------------------------------------------------------------------------- |
 
 <table>
 <thead>

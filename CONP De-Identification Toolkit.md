@@ -45,9 +45,8 @@ This guide is not comprehensive and may need to be tailored to your data. **Rese
 
 ### Image headers
 
-
-| Tool name          | Description                                                                                                                                                                | Link                                                                                                                    |
-|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Tool name              | Description                                                                                                                                                                    | Link                                                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
 | pydicom’s deid         | Removes information from image headers (customizable).                                                                                                                         | [<u>https://pydicom.github.io/deid/</u>](https://pydicom.github.io/deid/)                                                   |
 | dicomanon (for MATLAB) | Removes confidential medical information from the DICOM file file_in and creates a new file file_out with the modified values. Image data and other attributes are unmodified. | [<u>https://www.mathworks.com/help/images/ref/dicomanon.html</u>](https://www.mathworks.com/help/images/ref/dicomanon.html) |
 
@@ -136,11 +135,11 @@ El Emam, Khaled, Lucy Mosquera, and Jason Bass. “**Evaluating Identity Disclos
 
 ### Deciding between open, registered, and controlled access
 
-| Access model | Description                                                                                                     | Identifiability of data                                                                                            |
-|------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Open             | Accessible with minimal restrictions or verifications.                                                              | Fully de-identified data (both direct and indirect identifiers removed) and/or aggregate data.                         |
-| Registered       | Accessible only to users who have an account that has identified them as a *bona fide* researcher.                  | De-identified data and/or aggregate data where inferences may be made about indirectly identifying individual records. |
-| Controlled       | Accessible only upon review of a data access application, which includes prior approval by a research ethics board. | Individual-level data with direct identifiers removed or replaced by a code.                                           |
+| Access model | Description                                                                                                         | Identifiability of data                                                                                                |
+| ------------ | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Open         | Accessible with minimal restrictions or verifications.                                                              | Fully de-identified data (both direct and indirect identifiers removed) and/or aggregate data.                         |
+| Registered   | Accessible only to users who have an account that has identified them as a *bona fide* researcher.                  | De-identified data and/or aggregate data where inferences may be made about indirectly identifying individual records. |
+| Controlled   | Accessible only upon review of a data access application, which includes prior approval by a research ethics board. | Individual-level data with direct identifiers removed or replaced by a code.                                           |
 
 **Articles**
 
@@ -179,7 +178,7 @@ Tremblay-Mercier, Jennifer, Cécile Madjar, Samir Das, Stephanie O. M. Dyke, Pie
 Eke, Damian, Amy Bernard, Jan G. Bjaalie, Ricardo Chavarriaga, Takashi Hanakawa, Anthony Hannan, Sean Hill, et al. “**International Data Governance for Neuroscience**.” PsyArXiv, June 1, 2021. <https://doi.org/10.31234/osf.io/esz9b>.
 
 | **Version** | **Date (YYYY-MM-DD)** | **Modification summary** |
-|-------------|-----------------------|--------------------------|
+| ----------- | --------------------- | ------------------------ |
 | 1.0         | 2021-07-28            | Initial release          |
 
 [1] Developed by the Ethics and Governance Committee of the Canadian Open Neuroscience Platform. Members: Bartha Maria Knoppers (Chair), Michael Beauvais (Manager), Ann Cavoukian, John Clarkson, Lindsay Green-Noble, Judy Iles, Jason Karamchandani, Roland Nadler, Dylan Roskams-Edris, and Walter Stewart.
