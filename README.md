@@ -1,9 +1,11 @@
 # CONP Ethics and Data Governance: Tools for Navigating Ethical Issues in Open Neuroscience
+
 A repository for the outputs of the Ethics and Data Governance Committee of the CONP.
 
 [See here for more information about the Committee's work.](https://conp.ca/ethics-data-governance/)
 
 Here you will find:
+
 * [CONP Consent Toolkit](https://github.com/CONP-PCNO/Ethics_and_Data_Governance/blob/main/CONP%20Consent%20Toolkit.md)
 * [CONP De-Identification Toolkit](https://github.com/CONP-PCNO/Ethics_and_Data_Governance/blob/main/CONP%20De-Identification%20Toolkit.md)
 
