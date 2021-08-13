@@ -46,18 +46,14 @@ In addition to the required consent elements common to research with human parti
 <td>Sharing of de-identified data via the CONP Portal, an open-access platform that researchers the world over may access</td>
 </tr>
 <tr class="even">
-<td><strong>Future research use</strong></td>
-<td>Any type of future research approved by a research ethics board</td>
-</tr>
-<tr class="odd">
 <td><strong>Commercial use</strong></td>
 <td>Use of de-identified data for commercial purposes</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Data withdrawal</strong></td>
 <td>Not possible to withdraw data that has already been shared</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Re-identification</strong></td>
 <td>Very low or low risk that the participant could be re-identified in the future</td>
 </tr>
