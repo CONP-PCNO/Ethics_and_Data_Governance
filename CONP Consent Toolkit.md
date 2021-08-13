@@ -1,6 +1,7 @@
 # CONP Consent Toolkit
 
 Developed by the [Ethics and Governance Committee of the Canadian Open Neuroscience Platform](https://conp.ca/ethics-data-governance/). 
+
 **Members**: Bartha Maria Knoppers (Chair), Michael Beauvais (Manager), Ann Cavoukian, John Clarkson, Lindsay Green-Noble, Judy Iles, Jason Karamchandani, Roland Nadler, Dylan Roskams-Edris, and Walter Stewart.
 
 ## Unless otherwise noted, this work is licensed under [<u>Attribution 4.0 International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
