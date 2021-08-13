@@ -1,4 +1,6 @@
-# CONP Consent Toolkit \[1\]
+# CONP Consent Toolkit
+
+Developed by the Ethics and Governance Committee of the Canadian Open Neuroscience Platform. Members: Bartha Maria Knoppers (Chair), Michael Beauvais (Manager), Ann Cavoukian, John Clarkson, Lindsay Green-Noble, Judy Iles, Jason Karamchandani, Roland Nadler, Dylan Roskams-Edris, and Walter Stewart.
 
 ## Unless otherwise noted, this work is licensed under [<u>Attribution 4.0 International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
 
@@ -77,7 +79,6 @@ Use the filter below to determine if the consent already obtained from participa
 | **Have your participants consented to:**                         | **Yes** | **No** |
 | ---------------------------------------------------------------- | ------- | ------ |
 | Deposit of de-identified data in open-access databases?          |         |        |
-| Any future research that is approved by a research ethics board? |         |        |
 | Commercial use?                                                  |         |        |
 
 **Step 2: If all your responses in step 1 were “yes”, your data can be submitted for inclusion on the CONP Portal. If any of the responses were “no”, answer the following questions.**
@@ -143,18 +144,12 @@ Use the filter below to determine if the consent already obtained from participa
 <td>With your consent, we will share de-identified information with other researchers from around the world who would use it to improve patient care or advance scientific knowledge, for clinical and/or general research purposes. Your information will be shared with others through open-access databases, such as the Canadian Open Neuroscience Platform (CONP). CONP is publicly available to anyone with internet access. General information, such as age, race, or sex, or your de-identified [<em>specify data type, e.g., MRI images</em>] may be shared in these types of databases.</td>
 </tr>
 <tr class="even">
-<td><strong>Future research use</strong></td>
-<td>Any type of REB-approved research</td>
-<td>The de-identified data sets will be used for any type of ethically approved research. This research may be unrelated to the research study in which you will participate.</td>
-<td>Other doctors and scientists at this and other medical and research centres may use your de-identified health information, research data and/or sample in further, ethically approved research with the goal to improve health outcomes and develop new treatments.</td>
-</tr>
-<tr class="odd">
 <td><strong>Commercial use</strong></td>
 <td>Use of de-identified data for commercial purposes</td>
 <td>It is possible that future research conducted using data sets that include both your de-identified data and those of others will lead to the development of commercial products. These may include new therapeutics, diagnostic tests, or even software programs. In such cases, no part of the revenue generated from their development or sale will be shared.</td>
 <td>Some of the research done with the information stored in the databases may one day lead to the development of software, tests, drugs, or other commercial products. If this happens, you will not receive any of the profits.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Data withdrawal</strong></td>
 <td>Not possible to withdraw data that has already been shared</td>
 <td><p>The choice to participate is always yours. You may withdraw from the study at any time. If you withdraw, no additional data will be collected from you. If you withdraw before your data are de-identified and shared, we will remove your data from the project.</p>
@@ -162,7 +157,7 @@ Use the filter below to determine if the consent already obtained from participa
 <td><p>You are free to withdraw from the project at any stage. If you withdraw before testing and data is collected, we will not continue. If you withdraw after testing and data is collected we will use any information already collected unless you tell us not to. However, if your data has already been shared it may not be possible to retrieve or remove all your data.</p>
 <p>You can withdraw your data at any time by contacting [<em>name of relevant person</em>] free of charge at [<em>information</em>]. Data sent to other researchers around the world cannot be withdrawn if already used or published.</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Re-identification</strong></td>
 <td>Very low or low risk that the participant could be re-identified in the future</td>
 <td>Your privacy will be protected through advanced de-identification techniques. Despite this, this is always a small risk that your shared data may one day enable someone to identify you. For example, someone could use information in your clinical record to match you in a data set. This is difficult to do because of the de-identification measures. Extensive sharing of personal information through social media or genealogical websites may also make it easier to re-identify you. With technological advances, however, it may become less difficult. Unable to foresee such advances, we use today’s best protections. In the remote chance that you are re-identified, you or your relatives may suffer a loss of privacy or potentially be subject to discrimination</td>
@@ -171,7 +166,5 @@ Use the filter below to determine if the consent already obtained from participa
 </tr>
 </tbody>
 </table>
-
-1. Developed by the Ethics and Governance Committee of the Canadian Open Neuroscience Platform. Members: Bartha Maria Knoppers (Chair), Michael Beauvais (Manager), Ann Cavoukian, John Clarkson, Lindsay Green-Noble, Judy Iles, Jason Karamchandani, Roland Nadler, Dylan Roskams-Edris, and Walter Stewart.
 
 2. Modified from the [<u>Global Alliance for Genomics and Health’s model consent clauses</u>](https://drive.google.com/file/d/1O5Ti7g7QJqS3h0ABm-LyTe02Gtq8wlKM/).
