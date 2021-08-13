@@ -95,7 +95,7 @@ Use the filter below to determine if the consent already obtained from participa
 ***NB*** Only those participants who were re-contacted and gave appropriate consent can be included in the data set included on the CONP Portal. If you have recontacted your participants and they have withheld consent, you are unlikely to obtain a waiver.
 |                                                                                                                                          | **Yes** | **No** |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------ |
-| Are you able to apply to a competent research ethics board for a waiver, i.e., an authorization to alter the initial consent parameters? |         |        |
+| Are you able to apply to your research ethics board for a waiver, i.e., an authorization to alter the initial consent parameters? |         |        |
 
 **Step 4: If the answer in step 3 was “yes”, apply to your research ethics board for a waiver. If the answer was “no”, your data cannot be included on the CONP Portal.**
 
@@ -114,7 +114,7 @@ Use the filter below to determine if the consent already obtained from participa
 <th></th>
 <th><strong>Essential elements</strong></th>
 <th><strong>Example of consent clause language:</strong></th>
-<th><strong>Alternative consent clause</strong> [2]<strong>:</strong></th>
+<th><strong>Alternative consent clause</strong> [1]<strong>:</strong></th>
 </tr>
 </thead>
 <tbody>
