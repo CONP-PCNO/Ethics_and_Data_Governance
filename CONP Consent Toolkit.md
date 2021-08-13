@@ -114,7 +114,7 @@ Use the filter below to determine if the consent already obtained from participa
 <th></th>
 <th><strong>Essential elements</strong></th>
 <th><strong>Example of consent clause language:</strong></th>
-<th><strong>Alternative consent clause</strong>[2]<strong>:</strong></th>
+<th><strong>Alternative consent clause</strong> [2]<strong>:</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -169,4 +169,4 @@ Use the filter below to determine if the consent already obtained from participa
 </tbody>
 </table>
 
-2. Modified from the [<u>Global Alliance for Genomics and Health’s model consent clauses</u>](https://drive.google.com/file/d/1O5Ti7g7QJqS3h0ABm-LyTe02Gtq8wlKM/).
+1. Modified from the [<u>Global Alliance for Genomics and Health’s model consent clauses</u>](https://drive.google.com/file/d/1O5Ti7g7QJqS3h0ABm-LyTe02Gtq8wlKM/).
