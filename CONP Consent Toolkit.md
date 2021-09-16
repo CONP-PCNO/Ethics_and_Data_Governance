@@ -34,7 +34,7 @@ In addition to the required consent elements common to research with human parti
 <tbody>
 <tr class="odd">
 <td><strong>Data generation</strong></td>
-<td>Generation of data for research purposes</td>
+<td>Generation of participant data for research purposes</td>
 </tr>
 <tr class="even">
 <td><strong>De-identification (coding, anonymization, and synthetic data generation)</strong></td>
@@ -57,7 +57,7 @@ In addition to the required consent elements common to research with human parti
 </tr>
 <tr class="even">
 <td><strong>Re-identification</strong></td>
-<td>Very low or low risk that the participant could be re-identified in the future</td>
+<td>Low risk that the participant could be re-identified in the future</td>
 </tr>
 </tbody>
 </table>
@@ -118,7 +118,7 @@ Use the filter below to determine if the consent already obtained from participa
 <tbody>
 <tr class="odd">
 <td><strong>Data generation</strong></td>
-<td>The generation of data for research purposes</td>
+<td>The generation of partcipant data for research purposes</td>
 <td><p>You are being asked to consent to [<em>include relevant procedure, e.g., imaging</em>] procedure(s) that will generate data about your [<em>include relevant data types, e.g.,cognitive performance</em>] for research purposes.</p>
 <p>[<em>If questionnaires are also included...</em>]</p>
 <p>You will also be asked questions about [<em>include description of the types of questions, e.g., personal biographical information, health status, etc.</em>]</p></td>
@@ -126,7 +126,7 @@ Use the filter below to determine if the consent already obtained from participa
 </tr>
 <tr class="even">
 <td><strong>De-identification (coding, anonymization, and synthetic data generation)</strong></td>
-<td>Removal of direct and indirect identifiers, the restructuring of data, and the generation of synthetic (‘scrambled’) data for open sharing</td>
+<td>Removal of direct and indirect identifiers, the restructuring of data, and the generation of synthetic data for open sharing</td>
 <td><p>To protect your privacy and to facilitate the broadest possible, public sharing of the data that you and other participants contribute, your name, date of birth and other directly identifying information will not be shared.</p>
 <p>Some data, [<em>e.g., name; occupation; etc.</em>], will be replaced by a code.</p>
 <p>Other data that we believe may allow others to determine who you are, such as your [<em>include relevant feature, e.g., facial features</em>] will be irreversibly changed through a family of processes called anonymization so that you cannot be identified.</p>
@@ -138,7 +138,7 @@ Use the filter below to determine if the consent already obtained from participa
 <tr class="odd">
 <td><strong>CONP Portal</strong></td>
 <td>Sharing of de-identified data via the CONP Portal, an open-access platform that researchers the world over may access</td>
-<td><p>After having gone through the described de-identification process, a data set made of your de-identified data and those of other participants will be uploaded to [<em>specify the online platform or give a list of potential options if known, e.g., Zendoo, LORIS, etc.</em>]. The link to the data set will then be included on the Canadian Open Neuroscience Platform (CONP)Portal to be openly shared with the scientific community.</p>
+<td><p>After having gone through the described de-identification process, a data set made of your de-identified data and those of other participants will be uploaded to [<em>specify the online platform or give a list of potential options if known, e.g., Zendoo, LORIS, etc.</em>]. The link to the data set will then be included on the Canadian Open Neuroscience Platform (CONP) Portal to be openly shared with the scientific community.</p>
 <p>As an Open Science platform, CONP aims to make scientific data as easily accessible as possible to the scientific community while respecting your privacy.</p>
 <p>Researchers from around the world will use the CONP Portal to access the de-identified data from this research study and other studies. This maximizes the potential for this project’s research data to be used for additional research that may lead to important scientific discoveries.</p></td>
 <td>With your consent, we will share de-identified information with other researchers from around the world who would use it to improve patient care or advance scientific knowledge, for clinical and/or general research purposes. Your information will be shared with others through open-access databases, such as the Canadian Open Neuroscience Platform (CONP). CONP is publicly available to anyone with internet access. General information, such as age, race, or sex, or your de-identified [<em>specify data type, e.g., MRI images</em>] may be shared in these types of databases.</td>
