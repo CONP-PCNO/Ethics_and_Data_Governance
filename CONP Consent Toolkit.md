@@ -166,4 +166,4 @@ Use the filter below to determine if the consent already obtained from participa
 </tr>
 </tbody>
 </table>
-1. Modified from the [Global Alliance for Genomics and Health’s model consent clauses](https://drive.google.com/file/d/1O5Ti7g7QJqS3h0ABm-LyTe02Gtq8wlKM/).
+1. Modified from the [Global Alliance for Genomics and Health’s model consent clauses](https://drive.google.com/file/d/1O5Ti7g7QJqS3h0ABm-LyTe02Gtq8wlKM).
