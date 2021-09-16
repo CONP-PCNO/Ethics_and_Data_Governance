@@ -1,8 +1,8 @@
 # CONP Consent Toolkit
 
-Developed by the [Ethics and Governance Committee of the Canadian Open Neuroscience Platform](https://conp.ca/ethics-data-governance/). 
+This consent toolkit is the product of extended discussions and careful drafting that considers both [Canadian](https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2018.html) and [international](https://cioms.ch/publications/product/international-ethical-guidelines-for-health-related-research-involving-humans/) ethical frameworks and research practice.
 
-**Members**: Bartha Maria Knoppers (Chair), Michael Beauvais (Manager), Ann Cavoukian, John Clarkson, Lindsay Green-Noble, Judy Iles, Jason Karamchandani, Roland Nadler, Dylan Roskams-Edris, and Walter Stewart.
+In adapting this consent toolkit for your own research needs, we encourage you to mention to your research ethics board that your consent materials closely follow the templates created by the [CONP Ethics and Governance Committee](https://conp.ca/ethics-data-governance/). The Committee's members include internationally recognized experts in research ethics, neuroethics, data governance, and law. The Committee's members are: Bartha Maria Knoppers (Chair), Michael Beauvais (Manager), Ann Cavoukian, John Clarkson, Lindsay Green-Noble, Judy Illes, Jason Karamchandani, Roland Nadler, Dylan Roskams-Edris, and Walter Stewart.
 
 ## Unless otherwise noted, this work is licensed under [<u>Attribution 4.0 International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
 
