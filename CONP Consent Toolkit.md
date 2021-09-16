@@ -2,9 +2,9 @@
 
 This consent toolkit is the product of extended discussions and careful drafting that considers both [Canadian](https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2018.html) and [international](https://cioms.ch/publications/product/international-ethical-guidelines-for-health-related-research-involving-humans/) ethical frameworks and research practice.
 
-In adapting this consent toolkit for your own research needs, we encourage you to mention to your research ethics board that your consent materials closely follow the templates created by the [CONP Ethics and Governance Committee](https://conp.ca/ethics-data-governance/). The Committee's members include internationally recognized experts in research ethics, neuroethics, data governance, and law. 
+In adapting this consent toolkit for your own research needs, we encourage you to mention to your research ethics board that your consent materials closely follow the templates created by the [CONP Ethics and Governance Committee](https://conp.ca/ethics-data-governance/). The Committee's members include internationally recognized experts in research ethics, neuroethics, data governance, and law. The Committee's members are: Bartha Maria Knoppers (Chair), Michael Beauvais (Manager), Ann Cavoukian, John Clarkson, Lindsay Green-Noble, Judy Illes, Jason Karamchandani, Roland Nadler, Dylan Roskams-Edris, and Walter Stewart.
 
-The Committee's members are: Bartha Maria Knoppers (Chair), Michael Beauvais (Manager), Ann Cavoukian, John Clarkson, Lindsay Green-Noble, Judy Illes, Jason Karamchandani, Roland Nadler, Dylan Roskams-Edris, and Walter Stewart.
+Further feedback was graciously provided from members of the CONP community, in particular Patrick Bermudez, Marcel Farrés Franch, Jessica Royer, and Robert Zatorre.
 
 ## Unless otherwise noted, this work is licensed under [<u>Attribution 4.0 International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
 
@@ -112,7 +112,7 @@ Use the filter below to determine if the consent already obtained from participa
 <th></th>
 <th><strong>Essential elements</strong></th>
 <th><strong>Example of consent clause language:</strong></th>
-<th><strong>Alternative consent clause</strong> [1]<strong>:</strong></th>
+<th><strong>Alternative consent clause</strong> [2]<strong>:</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -166,5 +166,4 @@ Use the filter below to determine if the consent already obtained from participa
 </tr>
 </tbody>
 </table>
-
 1. Modified from the [<u>Global Alliance for Genomics and Health’s model consent clauses</u>](https://drive.google.com/file/d/1O5Ti7g7QJqS3h0ABm-LyTe02Gtq8wlKM/).
