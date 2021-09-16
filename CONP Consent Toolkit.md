@@ -112,7 +112,7 @@ Use the filter below to determine if the consent already obtained from participa
 <th></th>
 <th><strong>Essential elements</strong></th>
 <th><strong>Example of consent clause language:</strong></th>
-<th><strong>Alternative consent clause</strong> [2]<strong>:</strong></th>
+<th><strong>Alternative consent clause</strong> [1]<strong>:</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -159,7 +159,7 @@ Use the filter below to determine if the consent already obtained from participa
 </tr>
 <tr class="even">
 <td><strong>Re-identification</strong></td>
-<td>Very low or low risk that the participant could be re-identified in the future</td>
+<td>Low risk that the participant could be re-identified in the future</td>
 <td>Your privacy will be protected through advanced de-identification techniques. Despite this, this is always a small risk that your shared data may one day enable someone to identify you. For example, someone could use information in your clinical record to match you in a data set. This is difficult to do because of the de-identification measures. Extensive sharing of personal information through social media or genealogical websites may also make it easier to re-identify you. With technological advances, however, it may become less difficult. Unable to foresee such advances, we use today’s best protections. In the remote chance that you are re-identified, you or your relatives may suffer a loss of privacy or potentially be subject to discrimination</td>
 <td><p>Some participants worry about being identified as someone taking part in the project. The chance of this happening is extremely small [<em>consider including an estimation of such risk, such as “i.e., less than 1%”</em>], and we will do everything we can to prevent this from happening.</p>
 <p>Much like fingerprints, it is possible to identify someone if certain pieces of information are put together. While we use very strict data security measures to protect your privacy, there is always a small risk that your data may lead to you being re-identified. As technology advances, there may be new ways of linking data back to you that we cannot foresee today. Like other medical information, this may one day affect your insurability or your employment.</p></td>
