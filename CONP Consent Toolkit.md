@@ -99,6 +99,7 @@ Use the filter below to determine if the consent already obtained from participa
 
 | **Version** | **Date (YYYY-MM-DD)** | **Modification summary** |
 | ----------- | --------------------- | ------------------------ |
+| 1.0.1       | 2021-09-30            | Small typos              |
 | 1.0         | 2021-07-28            | Initial release          |
 
 **Annex 1. Example consent clauses for the essential consent elements.**
