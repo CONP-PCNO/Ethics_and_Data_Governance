@@ -2,7 +2,7 @@
 
 This consent toolkit is the product of extended discussions and careful drafting that considers both [Canadian](https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2018.html) and [international](https://cioms.ch/publications/product/international-ethical-guidelines-for-health-related-research-involving-humans/) ethical frameworks and research practice.
 
-In adapting this consent toolkit for your own research needs, we encourage you to mention to your research ethics board that your consent materials closely follow the templates created by the [CONP Ethics and Governance Committee](https://conp.ca/ethics-data-governance/). The Committee's members include internationally recognized experts in research ethics, neuroethics, data governance, and law. The Committee's members are: Bartha Maria Knoppers (Chair), Michael Beauvais (Manager), Ann Cavoukian, John Clarkson, Lindsay Green-Noble, Judy Illes, Jason Karamchandani, Roland Nadler, Dylan Roskams-Edris, and Walter Stewart.
+In adapting this consent toolkit for your own research needs, we encourage you to mention to your research ethics board that your consent materials closely follow the templates created by the [CONP Ethics and Governance Committee](https://conp.ca/ethics-data-governance/). The Committee's members include internationally recognized experts in research ethics, neuroethics, data governance, and law. The Committee's members are Bartha Maria Knoppers (Chair), Michael Beauvais (Manager), Ann Cavoukian, John Clarkson, Lindsay Green-Noble, Judy Illes, Jason Karamchandani, Roland Nadler, Dylan Roskams-Edris, and Walter Stewart.
 
 Further feedback was graciously provided from members of the CONP community, in particular Patrick Bermudez, Marcel Farrés Franch, Jessica Royer, and Robert Zatorre.
 
@@ -21,7 +21,7 @@ Each of these situations will be explained.
 
 ## Part 1. Core consent elements (prospective consent)
 
-Researchers and/or clinicians should seek consent to the sharing ofde-identified data sets through the CONP Portal prospectively. Depending on the circumstances, consent should be sought from either the prospective participant directly (first-person consent) or from their legally authorized representative (substitute consent). First-person consent is appropriate for adults with legal capacity. Substitute consent is for situations where the prospective participant lacks legal capacity either due to age (i.e., minors) or due to an inability to understand the nature and consequences of research participation (i.e., limited cognitive ability). In these circumstances, the prospective participant should be involved in the consent process to the fullest extent of their ability to do so.
+Researchers and/or clinicians should seek consent to the sharing of de-identified data sets through the CONP Portal prospectively. Depending on the circumstances, consent should be sought from either the prospective participant directly (first-person consent) or from their legally authorized representative (substitute consent). First-person consent is appropriate for adults with legal capacity. Substitute consent is for situations where the prospective participant lacks legal capacity either due to age (i.e., minors) or due to an inability to understand the nature and consequences of research participation (i.e., limited cognitive ability). In these circumstances, the prospective participant should be involved in the consent process to the fullest extent of their ability to do so.
 
 In addition to the required consent elements common to research with human participants, prospective consent forms should include the following core elements to enable broad, open sharing via the CONP Portal:
 <table>
@@ -155,7 +155,7 @@ Use the filter below to determine if the consent already obtained from participa
 <td>Not possible to withdraw data that has already been shared</td>
 <td><p>The choice to participate is always yours. You may withdraw from the study at any time. If you withdraw, no additional data will be collected from you. We will continue to use any data already collected unless you tell us otherwise.</p>
 <p>Once data have been de-identified and shared via CONP, they cannot be deleted. Your privacy is important to us and your data will continue to benefit from the privacy protections we use for all participants.</p></td>
-<td><p>You are free to withdraw from the project at any stage. If you withdraw before testing and data is collected, we will not continue. If you withdraw after testing and data is collected we will use any information already collected unless you tell us not to. However, if your data has already been shared it may not be possible to retrieve or remove all your data.</p>
+<td><p>You are free to withdraw from the project at any stage. If you withdraw before testing and data is collected, we will not continue. If you withdraw after testing and data is collected, we will use any information already collected unless you tell us not to. However, if your data has already been shared it may not be possible to retrieve or remove all your data.</p>
 <p>You can withdraw your data at any time by contacting [<em>name of relevant person</em>] free of charge at [<em>information</em>]. Data sent to other researchers around the world cannot be withdrawn if already used or published.</p></td>
 </tr>
 <tr class="even">

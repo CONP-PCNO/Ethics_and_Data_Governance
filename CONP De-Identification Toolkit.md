@@ -2,7 +2,7 @@
 
 ## Unless otherwise noted, this work is licensed under [<u>Attribution 4.0 International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
 
-The fundamental goal of protecting participant privacy is to prevent the identification of by others. In keeping with relevant guidance from Canadian privacy authorities, data must present a low or very low likelihood of individual re-identification before open release, roughly analogous to a maximum threshold of 9% risk of re-identification. **Open access data sets should never contain individually identifying information such as names, health card numbers, and social insurance numbers**.
+The fundamental goal of protecting participant privacy is to prevent the identification of their data by others. In keeping with relevant guidance from Canadian privacy authorities, data must present a low or very low likelihood of individual re-identification before open release, roughly analogous to a maximum threshold of 9% risk of re-identification. **Open access data sets should never contain individually identifying information such as names, health card numbers, and social insurance numbers**.
 
 ## Preparing your data: de-identification techniques
 
