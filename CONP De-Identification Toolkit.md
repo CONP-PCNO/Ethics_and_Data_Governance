@@ -1,8 +1,6 @@
-# **CONP Privacy and De-identification Toolkit [<u>\[1\]</u>](#governance)**
+# CONP Privacy and De-identification Toolkit [<u>\[1\]</u>](#governance)
 
-**Unless otherwise noted, this work is licensed under [<u>Attribution
-4.0
-International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)**
+**Unless otherwise noted, this work is licensed under [<u>Attribution 4.0 International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)**
 
 The fundamental goal of protecting participant privacy is to prevent the
 identification of an individual’s data by others. In keeping with
@@ -13,7 +11,7 @@ re-identification. Open access datasets should never contain
 individually identifying information such as names, health card numbers,
 or social insurance numbers.
 
-**Preparing your data: de-identification techniques**
+## Preparing your data: de-identification techniques
 
 The CONP Portal brings together diverse datasets that contain many
 different types of information in several modalities and formats, e.g.,
@@ -26,7 +24,7 @@ This guide is not comprehensive and may need to be tailored to your
 data. **Researchers bear the** **responsibility to ensure that tools are
 applied properly and that information is de-identified before sharing**.
 
-**General tools**
+###  General tools
 
 <table>
 <colgroup>
@@ -69,14 +67,16 @@ href="https://amnesia.openaire.eu/index.html"><u>https://amnesia.openaire.eu/ind
 </tbody>
 </table>
 
-**Image headers**
+
+### Image headers
 
 | **Tool name**          | **Description**                                                                                                                                                                | **Link**                                                                                                                    |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | pydicom’s deid         | Removes information from image headers (customizable).                                                                                                                         | [<u>https://pydicom.github.io/deid/</u>](https://pydicom.github.io/deid/)                                                   |
 | dicomanon (for MATLAB) | Removes confidential medical information from the DICOM file file_in and creates a new file file_out with the modified values. Image data and other attributes are unmodified. | [<u>https://www.mathworks.com/help/images/ref/dicomanon.html</u>](https://www.mathworks.com/help/images/ref/dicomanon.html) |
 
-**Facial and dental features**
+
+### Facial and dental features
 
 <table>
 <colgroup>
@@ -137,7 +137,8 @@ href="https://github.com/PeerHerholz/BIDSonym"><u>https://github.com/PeerHerholz
 *Cf* also:
 [<u>https://community.imagingqa.com/docs</u>](https://community.imagingqa.com/docs)
 
-**Synthetic data**
+
+### Synthetic data
 
 Synthetic data are data that have been generated from either “real” data
 or models and that possess the same statistical properties as the
@@ -170,7 +171,7 @@ describing the tool</u></a></p></td>
 </tbody>
 </table>
 
-**Articles**
+#### Articles
 
 Vaden, Kenneth I., Mulugeta Gebregziabher, Dyslexia Data Consortium, and
 Mark A. Eckert. “Fully Synthetic Neuroimaging Data for Replication and
@@ -183,7 +184,8 @@ Validation.” *Journal of Medical Internet Research* 22, no. 11 (November
 16, 2020): e23139.
 [<u>https://doi.org/10.2196/23139</u>](https://doi.org/10.2196/23139).
 
-**Deciding between open, registered, and controlled access**
+
+### Deciding between open, registered, and controlled access
 
 | **Access model** | **Description**                                                                                                     | **Identifiability of data**                                                                                            |
 |------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
@@ -191,7 +193,7 @@ Validation.” *Journal of Medical Internet Research* 22, no. 11 (November
 | Registered       | Accessible only to users who have an account that has identified them as a *bona fide* researcher.                  | De-identified data and/or aggregate data where inferences may be made about indirectly identifying individual records. |
 | Controlled       | Accessible only upon review of a data access application, which includes prior approval by a research ethics board. | Individual-level data with direct identifiers removed or replaced by a code.                                           |
 
-**Articles**
+#### Articles
 
 Dyke, Stephanie O. M., Mikael Linden, Ilkka Lappalainen, Jordi Rambla De
 Argila, Knox Carey, David Lloyd, J. Dylan Spalding, et al. “Registered
@@ -205,9 +207,10 @@ Approach.” *European Journal of Human Genetics* 24, no. 12 (December
 2016): 1676–80.
 [<u>https://doi.org/10.1038/ejhg.2016.115</u>](https://doi.org/10.1038/ejhg.2016.115).
 
-**Additional resources**
 
-**Basic concepts**
+## Additional resources
+
+### Basic concepts
 
 Chapter 5: Privacy and Confidentiality of the *Tri-Council Policy
 Statement: Ethical Conduct for Research Involving Humans*
@@ -231,7 +234,7 @@ Marathon, Not a Sprint – Neuroimaging, Open Science and Ethics.”
 *NeuroImage* 236 (August 1, 2021): 118041.
 [<u>https://doi.org/10.1016/j.neuroimage.2021.118041</u>](https://doi.org/10.1016/j.neuroimage.2021.118041).
 
-**Data management plans**
+### Data management plans
 
 Morissette, Erica, Lina Harper, Isabella Peters, Felicity Tayler, and
 Stefanie Haustein. “Data Management Plan Template: Open Science
@@ -242,7 +245,7 @@ Strauss, Ted. “Data Management Plan Template: Neuroimaging in the
 Neurosciences,” April 9, 2021.
 [<u>https://doi.org/10.5281/zenodo.4673558</u>](https://doi.org/10.5281/zenodo.4673558).
 
-**Creation of open access datasets**
+### Creation of open access datasets
 
 Tremblay-Mercier, Jennifer, Cécile Madjar, Samir Das, Alexa Pichet
 Binette, Stephanie O. M. Dyke, Pierre Étienne, Marie-Elyse
@@ -258,7 +261,7 @@ Cohort Study of Pre-Symptomatic Alzheimer’s Disease.” BioRxiv, March 5,
 2020, 2020.03.04.976670.
 [<u>https://doi.org/10.1101/2020.03.04.976670</u>](https://doi.org/10.1101/2020.03.04.976670).
 
-**Data governance**
+### Data governance
 
 Eke, Damian, Amy Bernard, Jan G. Bjaalie, Ricardo Chavarriaga, Takashi
 Hanakawa, Anthony Hannan, Sean Hill, et al. “International Data

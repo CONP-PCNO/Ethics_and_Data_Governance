@@ -1,8 +1,6 @@
-**CONP Consent Toolkit**
+# CONP Consent Toolkit
 
-**Unless otherwise noted, this work is licensed under [<u>Attribution
-4.0
-International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)**
+**Unless otherwise noted, this work is licensed under [<u>Attribution 4.0 International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)**
 
 This consent toolkit is the product of extended discussions and careful
 drafting that considers both
@@ -44,7 +42,7 @@ accepts datasets in two situations:
 
 Each of these situations will be explained.
 
-**Part 1. Core consent elements (prospective consent)**
+## Part 1. Core consent elements (prospective consent)
 
 Researchers and/or clinicians should seek consent to the sharing of
 de-identified datasets through the CONP Portal prospectively. Depending
@@ -64,8 +62,7 @@ human participants, prospective consent forms should include the
 following core elements to enable broad, open sharing via the CONP
 Portal:
 
-**Table 1. Core consent elements for contributing datasets to the CONP
-Portal.**
+### Table 1. Core consent elements for contributing datasets to the CONP Portal.
 
 <table>
 <colgroup>
@@ -143,45 +140,35 @@ are shared.
 See [<u>Annex 1</u>](#annex1) for suggested clauses to include in the
 informed consent documentation.
 
-**Part 2. Retrospective consent filter**
+## Part 2. Retrospective consent filter
 
 Use the filter below to determine if the consent already obtained from
 participants will permit you to include the data on the CONP Portal.
 
-**Step 1: Answer the following questions.**
+### Step 1: Answer the following questions.
 
 | Have your participants consented to:                    | Yes | No  |
 |---------------------------------------------------------|-----|-----|
 | Deposit of de-identified data in open-access databases? |     |     |
 | Commercial use?                                         |     |     |
 
-**Step 2: If all your responses in step 1 were “yes”, your data can be
-submitted for inclusion on the CONP Portal. If any of the responses were
-“no”, answer the following questions.**
+### Step 2: If all your responses in step 1 were “yes”, your data can be submitted for inclusion on the CONP Portal. If any of the responses were “no”, answer the following questions.
 
 |                                                                                                                                                              | Yes | No  |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|
 | Have your participants consented to be re-contacted?                                                                                                         |     |     |
 | Is it feasible (i.e., not onerous to the degree of jeopardizing your research) to re-contact and consent your participants for inclusion on the CONP Portal? |     |     |
 
-**Step 3: If both answers in step 2 were “yes”, re-contact your
-participants and obtain their consent using the example consent clauses
-in Annex 1. Otherwise, answer the following question. *NB*** Only those
-participants who were re-contacted and gave appropriate consent can be
-included in the dataset included on the CONP Portal. If you have
-recontacted your participants and they have withheld consent, you are
-unlikely to obtain a waiver.
+### Step 3: If both answers in step 2 were “yes”, re-contact your participants and obtain their consent using the example consent clauses in Annex 1. Otherwise, answer the following question.
+Note: Only those participants who were re-contacted and gave appropriate consent can be included in the dataset included on the CONP Portal. If you have recontacted your participants and they have withheld consent, you are unlikely to obtain a waiver.
 
 |                                                                                                                                   | Yes | No  |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----|-----|
 | Are you able to apply to your research ethics board for a waiver, i.e., an authorization to alter the initial consent parameters? |     |     |
 
-**Step 4: If the answer in step 3 was “yes”, apply to your research
-ethics board for a waiver. If the answer was “no”, your data cannot be
-included on the CONP Portal.**
+### Step 4: If the answer in step 3 was “yes”, apply to your research ethics board for a waiver. If the answer was “no”, your data cannot be included on the CONP Portal.
 
-<span id="annex1" class="anchor"></span>**Annex 1. Example consent
-clauses for the essential consent elements.**
+## <span id="annex1" class="anchor"></span>Annex 1. Example consent clauses for the essential consent elements.
 
 <table>
 <colgroup>
