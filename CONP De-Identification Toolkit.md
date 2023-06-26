@@ -1,4 +1,4 @@
-# **CONP Privacy and De-identification Guide [<u>\[1\]</u>](#governance)**
+# **CONP Privacy and De-identification Guide (v1.0.4) [<u>\[1\]</u>](#governance)**
 
 **Unless otherwise noted, this work is licensed under [<u>Attribution 4.0 International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)**
 
