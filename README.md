@@ -6,11 +6,14 @@ A repository for the outputs of the Ethics and Data Governance Committee of the 
 
 Here you will find:
 
-* [CONP Consent Toolkit](https://github.com/CONP-PCNO/Ethics_and_Data_Governance/blob/main/CONP%20Consent%20Toolkit.md)
-* [CONP De-Identification Toolkit](https://github.com/CONP-PCNO/Ethics_and_Data_Governance/blob/main/CONP%20De-Identification%20Toolkit.md)
+* [CONP Consent Guide](https://github.com/CONP-PCNO/Ethics_and_Data_Governance/blob/main/CONP%20Consent%20Toolkit.md)
+* [CONP De-Identification Guide](https://github.com/CONP-PCNO/Ethics_and_Data_Governance/blob/main/CONP%20De-Identification%20Toolkit.md)
 
 [Releases](https://github.com/CONP-PCNO/Ethics_and_Data_Governance/releases)
 
-These documents are meant to assist you in getting 3/4 of the way "there" when it comes to the design and conduct of your open neuroscience research projects. In paticular, our tools are aimed at facilitating the open sharing of de-iedntified neuro data.
+In response to a growing need in the neuroscience community for concrete guidance concerning ethically sound and pragmatically feasible open data-sharing, the CONP has created an ‘Ethics Toolkit’. Together, these documents are meant to help researchers identify key elements in the design of their projects that are often required for the open sharing of neuroscience data, such as model consent language and approaches to de-identification.
+
+This guidance is the product of extended discussions and careful drafting by the CONP Ethics and Governance Committee that considers both Canadian and international ethical frameworks and research practice.
+
 
 **We encourage you to give feedback on the materials provided through commenting on the repository.**
