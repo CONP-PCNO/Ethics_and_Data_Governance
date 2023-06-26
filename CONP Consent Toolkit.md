@@ -1,4 +1,4 @@
-# CONP Consent Guide
+# CONP Consent Guide (v1.0.4)
 
 **Unless otherwise noted, this work is licensed under [<u>Attribution
 4.0
