@@ -1,8 +1,10 @@
-# CONP Consent Toolkit (v1.0.3)
+# CONP Consent Guide (v1.0.4)
 
-**Unless otherwise noted, this work is licensed under [<u>Attribution 4.0 International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)**
+**Unless otherwise noted, this work is licensed under [<u>Attribution
+4.0
+International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)**
 
-This consent toolkit is the product of extended discussions and careful
+This consent guide is the product of extended discussions and careful
 drafting that considers both
 [<u>Canadian</u>](https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2018.html)
 and
@@ -10,59 +12,83 @@ and
 ethical frameworks and research practice. It provides general guidance
 to Canadian neuroscience researchers who wish to share de-identified
 data in an unrestricted manner with the scientific community and the
-public at large. The toolkit is a model for Canadian open-access
+public at large. The guide is a model for Canadian open-access
 neuroscience initiatives to adopt in developing their governance
-standards and also describes the minimum permissions required for
+standards and it also describes the minimum permissions required for
 researchers to submit data to the Canadian Open Neuroscience Platform
-(CONP) Portal.
+(CONP) Portal’s Community Server (see below).
 
-In adapting this consent toolkit for your own research needs, we
-encourage you to mention to your research ethics board that your consent
-materials are modeled after those created by the [<u>CONP Ethics and
-Governance Committee</u>](https://conp.ca/ethics-data-governance/). The
-Committee's members include internationally recognized experts in
-research ethics, neuroethics, data governance, and law. The Committee's
-members are Bartha Maria Knoppers (Chair), Alexander Bernier (Manager),
-Ann Cavoukian, John Clarkson, Lindsay Green-Noble, Judy Illes, Jason
-Karamchandani, Roland Nadler, Dylan Roskams-Edris, and Walter Stewart.
-Further feedback was graciously provided from members of the CONP
-community, in particular Patrick Bermudez, Marcel Farrés Franch, Jessica
-Royer, and Robert Zatorre.
+CONP Portal users can presently choose among different methods of
+hosting their data, including third-party storage provided by the OSF or
+Zenodo, or storage native to the CONP’s technical infrastructure, known
+as the ‘Community Server’. Greater flexibility still in data hosting
+location is available through the combined use of the DataLad
+distributed data-management system and the GitHub open software
+repository to host the dataset metadata.
 
-In addition to the general guidance it presents, this document assists
-researchers in contributing datasets to the CONP Portal. The CONP
-accepts datasets in two situations:
+These distinctions in data storage location have stewardship
+implications:
+
+1. For **data that are accessible through the Portal but stored on
+    non-CONP servers**, it is sufficient for contributors to abide by
+    their local legal and biomedical research ethics requirements and to
+    respect the data stewardship regulations of the selected host
+    repository. In this case, adherence to **the CONP data stewardship
+    guidance is recommended but not required**.
+
+2.  However, for **data natively hosted on its Community Sever** and for
+    which it therefore takes on the role of primary data steward, **the
+    CONP requires adherence to its data governance standards**, which
+    are described below.
+
+In adapting this consent guide for your own research needs, we encourage
+you to mention to your research ethics board that your consent materials
+are modeled after those created by the [<u>CONP Ethics and Governance
+Committee</u>](https://conp.ca/ethics-data-governance/), whose members
+include internationally recognized experts in research ethics,
+neuroethics, data governance, and law: Trudo Lemmens (Chair), Alexander
+Bernier (Manager), Ann Cavoukian, John Clarkson, Jason Karamchandani,
+Roland Nadler, Dylan Roskams-Edris, and Walter Stewart. Further feedback
+was graciously provided from members of the CONP community, in
+particular Patrick Bermudez, Marcel Farrés Franch, Jessica Royer, Robert
+Zatorre, and past Committee Members Bartha Maria Knoppers, Lindsay Green
+Noble, and Judy Illes.
+
+This document provides general, ‘best-practice’ guidance for open
+data-sharing which must be adhered to in the specific case of
+data-sharing through the CONP’s Community Sever. The CONP’s Community
+Server accepts datasets in two situations:
 
 1.  Participants have prospectively consented to the sharing of their
-    de-identified data through the CONP Portal.
+    de-identified data via an open data-sharing repository.
 
 2.  Participants have not consented to the sharing of their data on the
     CONP Portal, but the consent given meets the core consent elements
     for retrospective consent.
 
-Each of these situations will be explained.
+Each of these situations are be explained below.
 
-## Part 1. Core consent elements (prospective consent)
+## Part 1: Core consent elements (prospective consent)
 
-Researchers and/or clinicians should seek consent to the sharing of
-de-identified datasets through the CONP Portal prospectively. Depending
-on the circumstances, consent should be sought from either the
-prospective participant directly (first-person consent) or from their
-legally authorized representative (substitute consent). First-person
-consent is appropriate for adults with legal capacity. Substitute
-consent is for situations where the prospective participant lacks legal
-capacity either due to age (i.e., minors) or due to an inability to
-understand the nature and consequences of research participation (i.e.,
-limited cognitive ability). In these circumstances, the prospective
-participant should be involved in the consent process to the fullest
-extent of their ability to do so.
+Researchers and/or clinicians should prospectively seek consent to the
+open sharing of de-identified datasets. Depending on the circumstances,
+consent should be sought from either the prospective participant
+directly (first-person consent) or from their legally authorized
+representative (substitute consent). First-person consent is appropriate
+for adults with legal capacity. Substitute consent is for situations
+where the prospective participant lacks legal capacity either due to age
+(i.e., minors) or due to an inability to understand the nature and
+consequences of research participation (i.e., limited cognitive
+ability). In these circumstances, the prospective participant should be
+involved in the consent process to the fullest extent of their ability
+to do so.
 
 In addition to the required consent elements common to research with
 human participants, prospective consent forms should include the
 following core elements to enable broad, open sharing via the CONP
 Portal:
 
-### Table 1. Core consent elements for contributing datasets to the CONP Portal.
+### Table 1: Core consent elements for contributing datasets to the CONP Portal.
 
 <table>
 <colgroup>
@@ -72,8 +98,8 @@ Portal:
 <thead>
 <tr class="header">
 <th></th>
-<th><strong>To contribute datasets to the CONP Portal, participants
-should consent to:</strong></th>
+<th><strong>To contribute datasets to the CONP Portal Community Sever,
+participants should consent to:</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -96,9 +122,9 @@ properties as the original dataset but without a one-to-one match for
 every variable</p></td>
 </tr>
 <tr class="odd">
-<td><strong>CONP Portal</strong></td>
-<td>Sharing of de-identified data via the CONP Portal, an open-access
-platform that researchers the world over may access</td>
+<td><strong>CONP Portal Community Sever</strong></td>
+<td>Sharing of de-identified data via the CONP Portal Community Sever,
+an open-access platform that researchers the world over may access</td>
 </tr>
 <tr class="even">
 <td><strong>Commercial use</strong></td>
@@ -116,17 +142,19 @@ future</td>
 </tbody>
 </table>
 
-If any of the elements in Table 1 have not been included in the informed
-consent documents, datasets should not be uploaded to the CONP Portal.
-In such circumstances, we recommend you examine the retrospective filter
-below. If doubts still remain or you have questions about the
-suitability of these consent elements for your research, please consult
-with your local research ethics board.
+If any of the elements in **Table 1** have not been included in the
+informed consent documents, datasets should not be uploaded to the CONP
+Portal Community Sever (though it might still be possible to share them
+through the CONP Portal by one of its other data-storage methods). In
+such circumstances, we recommend you examine the ‘retrospective filter’
+below. If doubts remain or you have questions about the suitability of
+these consent elements for your research, please consult with your local
+research ethics board.
 
-Note: Researchers who want to repurpose the above guidance to establish
-the terms of data deposit for a different open science platform should
-replace the phrase “CONP Portal” in the above template with the name of
-the concerned open science platform.
+<u>Note</u>: Researchers who want to repurpose the above guidance to
+establish the terms of data deposit for a different open science
+platform should replace the phrase “CONP Portal” in the above template
+with the name of the concerned open science platform.
 
 We recognize that some research projects may choose to have a tiered
 consent model, whereby participants consent to only certain data types
@@ -137,13 +165,14 @@ to ensure that data segmentation is appropriately managed so that only
 those data types for which consent to open data sharing has been given
 are shared.
 
-See [<u>Annex 1</u>](#annex1) for suggested clauses to include in the
+See [**Annex 1**](#annex1) below for suggested clauses to include in the
 informed consent documentation.
 
-## Part 2. Retrospective consent filter
+## Part 2: Retrospective consent filter
 
 Use the filter below to determine if the consent already obtained from
-participants will permit you to include the data on the CONP Portal.
+participants will permit you to include the data on the CONP Portal
+Community Server.
 
 ### Step 1: Answer the following questions.
 
@@ -152,30 +181,32 @@ participants will permit you to include the data on the CONP Portal.
 | Deposit of de-identified data in open-access databases? |     |     |
 | Commercial use?                                         |     |     |
 
-### Step 2: If all your responses in step 1 were “yes”, your data can be submitted for inclusion on the CONP Portal. If any of the responses were “no”, answer the following questions.
+### Step 2: If all your responses in step 1 were “yes”, your data can be submitted for inclusion on the CONP Portal Community Server. If any of the responses were “no”, answer the following questions.
 
-|                                                                                                                                                              | Yes | No  |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|
-| Have your participants consented to be re-contacted?                                                                                                         |     |     |
-| Is it feasible (i.e., not onerous to the degree of jeopardizing your research) to re-contact and consent your participants for inclusion on the CONP Portal? |     |     |
+|                                                                                                                                                                                              | Yes | No  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|
+| Have your participants consented to be re-contacted?                                                                                                                                         |     |     |
+| Is it feasible (i.e., not onerous to the degree of jeopardizing your research) to re-contact and consent your participants for inclusion on the CONP Portal Community Sever Community Sever? |     |     |
 
 ### Step 3: If both answers in step 2 were “yes”, re-contact your participants and obtain their consent using the example consent clauses in Annex 1. Otherwise, answer the following question.
-Note: Only those participants who were re-contacted and gave appropriate consent can be included in the dataset included on the CONP Portal. If you have recontacted your participants and they have withheld consent, you are unlikely to obtain a waiver.
+(Note: Only those participants who were re-contacted and gave appropriate consent can be included in the dataset included on the CONP Portal Community Sever Community Sever. If you have recontacted your participants and they have withheld consent, you are unlikely to obtain a waiver.)
 
 |                                                                                                                                   | Yes | No  |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----|-----|
 | Are you able to apply to your research ethics board for a waiver, i.e., an authorization to alter the initial consent parameters? |     |     |
 
-### Step 4: If the answer in step 3 was “yes”, apply to your research ethics board for a waiver. If the answer was “no”, your data cannot be included on the CONP Portal.
+### Step 4: If the answer in step 3 was “yes”, apply to your research ethics board for a waiver. If the answer was “no”, your data cannot be included on the CONP Portal Community Sever.
 
-## <span id="annex1" class="anchor"></span>Annex 1. Example consent clauses for the essential consent elements.
+<span id="annex1" class="anchor"></span>
+
+## Annex 1: Example consent clauses for the essential consent elements.
 
 <table>
 <colgroup>
+<col style="width: 21%" />
 <col style="width: 19%" />
-<col style="width: 18%" />
-<col style="width: 30%" />
-<col style="width: 31%" />
+<col style="width: 29%" />
+<col style="width: 29%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -238,7 +269,7 @@ confidential information can be released by law should be explained to
 the participant</em>].</p></td>
 </tr>
 <tr class="odd">
-<td><strong>CONP Portal</strong></td>
+<td><strong>CONP Portal Community Sever</strong></td>
 <td>Sharing of de-identified data via the CONP Portal, an open-access
 platform that researchers the world over may access</td>
 <td><p>After having gone through the described de-identification
@@ -289,7 +320,7 @@ the study at any time. If you withdraw, no additional data will be
 collected from you. We will continue to use any data already collected
 unless you tell us otherwise.</p>
 <p>Once data have been de-identified and shared via CONP, they cannot be
-deleted. Your privacy is important to us and your data will continue to
+deleted. Your privacy is important to us, and your data will continue to
 benefit from the privacy protections we use for all
 participants.</p></td>
 <td><p>You are free to withdraw from the project at any stage. If you

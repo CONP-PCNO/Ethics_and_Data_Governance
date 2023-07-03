@@ -1,4 +1,4 @@
-# CONP Privacy and De-identification Toolkit (v1.0.3) [<u>\[1\]</u>](#governance)
+# **CONP Privacy and De-identification Guide (v1.0.4) [<u>\[1\]</u>](#governance)**
 
 **Unless otherwise noted, this work is licensed under [<u>Attribution 4.0 International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)**
 
@@ -18,19 +18,19 @@ different types of information in several modalities and formats, e.g.,
 structural and functional MRI, EEG, and behavioural results. The
 guidance below seeks to help researchers prepare neuroscience data for
 deposit in Canadian open-access data repositories that accept
-de-identified data, including the CONP Portal.
+de-identified data, including the CONP Portal Community Server.
 
 This guide is not comprehensive and may need to be tailored to your
 data. **Researchers bear the** **responsibility to ensure that tools are
 applied properly and that information is de-identified before sharing**.
 
-###  General tools
+### General tools
 
 <table>
 <colgroup>
 <col style="width: 21%" />
-<col style="width: 41%" />
-<col style="width: 37%" />
+<col style="width: 40%" />
+<col style="width: 38%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -67,14 +67,12 @@ href="https://amnesia.openaire.eu/index.html"><u>https://amnesia.openaire.eu/ind
 </tbody>
 </table>
 
-
 ### Image headers
 
 | **Tool name**          | **Description**                                                                                                                                                                | **Link**                                                                                                                    |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | pydicom’s deid         | Removes information from image headers (customizable).                                                                                                                         | [<u>https://pydicom.github.io/deid/</u>](https://pydicom.github.io/deid/)                                                   |
 | dicomanon (for MATLAB) | Removes confidential medical information from the DICOM file file_in and creates a new file file_out with the modified values. Image data and other attributes are unmodified. | [<u>https://www.mathworks.com/help/images/ref/dicomanon.html</u>](https://www.mathworks.com/help/images/ref/dicomanon.html) |
-
 
 ### Facial and dental features
 
@@ -137,7 +135,6 @@ href="https://github.com/PeerHerholz/BIDSonym"><u>https://github.com/PeerHerholz
 *Cf* also:
 [<u>https://community.imagingqa.com/docs</u>](https://community.imagingqa.com/docs)
 
-
 ### Synthetic data
 
 Synthetic data are data that have been generated from either “real” data
@@ -184,7 +181,6 @@ Validation.” *Journal of Medical Internet Research* 22, no. 11 (November
 16, 2020): e23139.
 [<u>https://doi.org/10.2196/23139</u>](https://doi.org/10.2196/23139).
 
-
 ### Deciding between open, registered, and controlled access
 
 | **Access model** | **Description**                                                                                                     | **Identifiability of data**                                                                                            |
@@ -206,7 +202,6 @@ Kazuto Kato, and Bartha M. Knoppers. “Registered Access: A ‘Triple-A’
 Approach.” *European Journal of Human Genetics* 24, no. 12 (December
 2016): 1676–80.
 [<u>https://doi.org/10.1038/ejhg.2016.115</u>](https://doi.org/10.1038/ejhg.2016.115).
-
 
 ## Additional resources
 
