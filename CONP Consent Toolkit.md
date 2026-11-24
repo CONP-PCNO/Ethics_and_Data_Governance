@@ -1,4 +1,9 @@
-# CONP Consent Guide (v1.0.4)
+# CONP Consent Guide (v1.0.5)
+
+**Authors:** Bartha Maria Knoppers, Michael Beauvais, Ann Cavoukian, John Clarkson, Lindsay Green-Noble, Judy Illes, Jason Karamchandani, Roland Nadler, Dylan Roskams-Edris, and Walter Stewart  
+**Revised under:** Trudo Lemmens (Chair) and Alexander Bernier (Manager), with Patrick Bermudez  
+**Acknowledgements:** Marcel Farrés Franch, Jessica Royer, Robert Zatorre, and members of the CONP community  
+**Version:** 1.0.5 · **Date:** 2026-11-27
 
 **Unless otherwise noted, this work is licensed under [<u>Attribution
 4.0
@@ -36,27 +41,21 @@ implications:
     repository. In this case, adherence to **the CONP data stewardship
     guidance is recommended but not required**.
 
-2.  However, for **data natively hosted on its Community Sever** and for
+2.  However, for **data natively hosted on its Community Server** and for
     which it therefore takes on the role of primary data steward, **the
     CONP requires adherence to its data governance standards**, which
     are described below.
 
 In adapting this consent guide for your own research needs, we encourage
 you to mention to your research ethics board that your consent materials
-are modeled after those created by the [<u>CONP Ethics and Governance
+are modeled after those created by the [<u>CONP Ethics & Data Governance
 Committee</u>](https://conp.ca/ethics-data-governance/), whose members
 include internationally recognized experts in research ethics,
-neuroethics, data governance, and law: Trudo Lemmens (Chair), Alexander
-Bernier (Manager), Ann Cavoukian, John Clarkson, Jason Karamchandani,
-Roland Nadler, Dylan Roskams-Edris, and Walter Stewart. Further feedback
-was graciously provided from members of the CONP community, in
-particular Patrick Bermudez, Marcel Farrés Franch, Jessica Royer, Robert
-Zatorre, and past Committee Members Bartha Maria Knoppers, Lindsay Green
-Noble, and Judy Illes.
+neuroethics, data governance, and law.
 
 This document provides general, ‘best-practice’ guidance for open
 data-sharing which must be adhered to in the specific case of
-data-sharing through the CONP’s Community Sever. The CONP’s Community
+data-sharing through the CONP’s Community Server. The CONP’s Community
 Server accepts datasets in two situations:
 
 1.  Participants have prospectively consented to the sharing of their
@@ -66,7 +65,7 @@ Server accepts datasets in two situations:
     CONP Portal, but the consent given meets the core consent elements
     for retrospective consent.
 
-Each of these situations are be explained below.
+Each of these situations is explained below.
 
 ## Part 1: Core consent elements (prospective consent)
 
@@ -98,7 +97,7 @@ Portal:
 <thead>
 <tr class="header">
 <th></th>
-<th><strong>To contribute datasets to the CONP Portal Community Sever,
+<th><strong>To contribute datasets to the CONP Portal Community Server,
 participants should consent to:</strong></th>
 </tr>
 </thead>
@@ -113,17 +112,16 @@ generation)</strong></td>
 <td><p>De-identification of their data, which may consist of a
 combination of the following processes:</p>
 <p>Coding – the removal of direct identifiers (e.g., name; health
-insurance number) and replaced with a code whose key is kept in a secure
+insurance number) and their replacement with a code whose key is kept in a secure
 location</p>
 <p>Anonymization – the permanent removal of direct identifiers without
 the conservation of any keys</p>
-<p>Data synthesis – the creation of a dataset with similar statistical
-properties as the original dataset but without a one-to-one match for
+<p>Data synthesis – the creation of a dataset with statistical properties similar to those of the original dataset but without a one-to-one match for
 every variable</p></td>
 </tr>
 <tr class="odd">
-<td><strong>CONP Portal Community Sever</strong></td>
-<td>Sharing of de-identified data via the CONP Portal Community Sever,
+<td><strong>CONP Portal Community Server</strong></td>
+<td>Sharing of de-identified data via the CONP Portal Community Server,
 an open-access platform that researchers the world over may access</td>
 </tr>
 <tr class="even">
@@ -132,7 +130,7 @@ an open-access platform that researchers the world over may access</td>
 </tr>
 <tr class="odd">
 <td><strong>Data withdrawal</strong></td>
-<td>Not possible to withdraw data that has already been shared</td>
+<td>Not possible to withdraw data that have already been shared</td>
 </tr>
 <tr class="even">
 <td><strong>Re-identification</strong></td>
@@ -144,7 +142,7 @@ future</td>
 
 If any of the elements in **Table 1** have not been included in the
 informed consent documents, datasets should not be uploaded to the CONP
-Portal Community Sever (though it might still be possible to share them
+Portal Community Server (though it might still be possible to share them
 through the CONP Portal by one of its other data-storage methods). In
 such circumstances, we recommend you examine the ‘retrospective filter’
 below. If doubts remain or you have questions about the suitability of
@@ -186,16 +184,16 @@ Community Server.
 |                                                                                                                                                                                              | Yes | No  |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|
 | Have your participants consented to be re-contacted?                                                                                                                                         |     |     |
-| Is it feasible (i.e., not onerous to the degree of jeopardizing your research) to re-contact and consent your participants for inclusion on the CONP Portal Community Sever Community Sever? |     |     |
+| Is it feasible (i.e., not onerous to the degree of jeopardizing your research) to re-contact and consent your participants for inclusion on the CONP Portal Community Server? |     |     |
 
 ### Step 3: If both answers in step 2 were “yes”, re-contact your participants and obtain their consent using the example consent clauses in Annex 1. Otherwise, answer the following question.
-(Note: Only those participants who were re-contacted and gave appropriate consent can be included in the dataset included on the CONP Portal Community Sever Community Sever. If you have recontacted your participants and they have withheld consent, you are unlikely to obtain a waiver.)
+(Note: Only those participants who were re-contacted and gave appropriate consent can be included in the dataset shared on the CONP Portal Community Server. If you have recontacted your participants and they have withheld consent, you are unlikely to obtain a waiver.)
 
 |                                                                                                                                   | Yes | No  |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----|-----|
 | Are you able to apply to your research ethics board for a waiver, i.e., an authorization to alter the initial consent parameters? |     |     |
 
-### Step 4: If the answer in step 3 was “yes”, apply to your research ethics board for a waiver. If the answer was “no”, your data cannot be included on the CONP Portal Community Sever.
+### Step 4: If the answer in step 3 was “yes”, apply to your research ethics board for a waiver. If the answer was “no”, your data cannot be included on the CONP Portal Community Server.
 
 <span id="annex1" class="anchor"></span>
 
@@ -259,7 +257,7 @@ appropriate measures to protect it. We will not disclose any information
 about you like your name, your date of birth, your address, or your
 contact information to unauthorized persons. All personal identifying
 information will be replaced with a unique code.</p>
-<p>Before researchers have access to your data, we will de-identify it.
+<p>Before researchers have access to your data, we will de-identify them.
 This means we take out names, dates of birth [<em>include others, if
 any</em>] and other personal details.</p>
 <p>Your participation in this research project and any information
@@ -269,7 +267,7 @@ confidential information can be released by law should be explained to
 the participant</em>].</p></td>
 </tr>
 <tr class="odd">
-<td><strong>CONP Portal Community Sever</strong></td>
+<td><strong>CONP Portal Community Server</strong></td>
 <td>Sharing of de-identified data via the CONP Portal, an open-access
 platform that researchers the world over may access</td>
 <td><p>After having gone through the described de-identification
@@ -314,7 +312,7 @@ of the profits.</td>
 </tr>
 <tr class="odd">
 <td><strong>Data withdrawal</strong></td>
-<td>Not possible to withdraw data that has already been shared</td>
+<td>Not possible to withdraw data that have already been shared</td>
 <td><p>The choice to participate is always yours. You may withdraw from
 the study at any time. If you withdraw, no additional data will be
 collected from you. We will continue to use any data already collected
@@ -324,10 +322,9 @@ deleted. Your privacy is important to us, and your data will continue to
 benefit from the privacy protections we use for all
 participants.</p></td>
 <td><p>You are free to withdraw from the project at any stage. If you
-withdraw before testing and data is collected, we will not continue. If
-you withdraw after testing and data is collected, we will use any
-information already collected unless you tell us not to. However, if
-your data has already been shared it may not be possible to retrieve or
+withdraw before testing and data are collected, we will not continue. If
+you withdraw after testing and data are collected, we will use any
+information already collected unless you tell us not to. However, if your data have already been shared it may not be possible to retrieve or
 remove all your data.</p>
 <p>You can withdraw your data at any time by contacting [<em>name of
 relevant person</em>] free of charge at [<em>information</em>]. Data
@@ -339,7 +336,7 @@ already used or published.</p></td>
 <td>Low risk that the participant could be re-identified in the
 future</td>
 <td>Your privacy will be protected through advanced de-identification
-techniques. Despite this, this is always a small risk that your shared
+techniques. Despite this, there is always a small risk that your shared
 data may one day enable someone to identify you. For example, someone
 could use information in your clinical record to match you in a dataset.
 This is difficult to do because of the de-identification measures.
@@ -348,7 +345,7 @@ genealogical websites may also make it easier to re-identify you. With
 technological advances, however, it may become less difficult. Unable to
 foresee such advances, we use today’s best protections. In the remote
 chance that you are re-identified, you or your relatives may suffer a
-loss of privacy or potentially be subject to discrimination</td>
+loss of privacy or potentially be subject to discrimination.</td>
 <td><p>Some participants worry about being identified as someone taking
 part in the project. The chance of this happening is extremely small
 [<em>consider including an estimation of such risk, such as “i.e., less

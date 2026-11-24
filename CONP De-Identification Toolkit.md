@@ -1,4 +1,8 @@
-# **CONP Privacy and De-identification Guide (v1.0.4) [<u>\[1\]</u>](#governance)**
+# **CONP Privacy and De-identification Guide (v1.0.5) [<u>\[1\]</u>](#governance)**
+
+**Authors:** Bartha Maria Knoppers, Michael Beauvais, Ann Cavoukian, John Clarkson, Lindsay Green-Noble, Judy Illes, Jason Karamchandani, Roland Nadler, Dylan Roskams-Edris, and Walter Stewart  
+**Revised under:** Trudo Lemmens (Chair) and Alexander Bernier (Manager), with Patrick Bermudez  
+**Version:** 1.0.5 · **Date:** 2026-11-27
 
 **Unless otherwise noted, this work is licensed under [<u>Attribution 4.0 International</u>](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)**
 
@@ -245,27 +249,18 @@ Neurosciences,” April 9, 2021.
 Tremblay-Mercier, Jennifer, Cécile Madjar, Samir Das, Alexa Pichet
 Binette, Stephanie O. M. Dyke, Pierre Étienne, Marie-Elyse
 Lafaille-Magnan, et al. “Open Science Datasets from PREVENT-AD, a
-Longitudinal Cohort of Pre-Symptomatic Alzheimer’s Disease.” BioRxiv,
-November 30, 2020, 2020.03.04.976670.
-[<u>https://doi.org/10.1101/2020.03.04.976670</u>](https://doi.org/10.1101/2020.03.04.976670).
-
-Tremblay-Mercier, Jennifer, Cécile Madjar, Samir Das, Stephanie O. M.
-Dyke, Pierre Étienne, Marie-Elyse Lafaille-Magnan, Pierre Bellec, et al.
-“Creation of an Open Science Dataset from PREVENT-AD, a Longitudinal
-Cohort Study of Pre-Symptomatic Alzheimer’s Disease.” BioRxiv, March 5,
-2020, 2020.03.04.976670.
-[<u>https://doi.org/10.1101/2020.03.04.976670</u>](https://doi.org/10.1101/2020.03.04.976670).
+Longitudinal Cohort of Pre-Symptomatic Alzheimer’s Disease.” NeuroImage: Clinical 31
+(2021): 102733.
+[<u>https://doi.org/10.1016/j.nicl.2021.102733</u>](https://doi.org/10.1016/j.nicl.2021.102733).
 
 ### Data governance
 
-Eke, Damian, Amy Bernard, Jan G. Bjaalie, Ricardo Chavarriaga, Takashi
-Hanakawa, Anthony Hannan, Sean Hill, et al. “International Data
-Governance for Neuroscience.” PsyArXiv, June 1, 2021.
-[<u>https://doi.org/10.31234/osf.io/esz9b</u>](https://doi.org/10.31234/osf.io/esz9b).
+Eke, Damian O., Amy Bernard, Jan G. Bjaalie, Ricardo Chavarriaga, Takashi
+Hanakawa, Anthony J. Hannan, Sean L. Hill, et al. “International Data
+Governance for Neuroscience.” Neuron 110, no. 4
+(February 16, 2022): 600–612.
+[<u>https://doi.org/10.1016/j.neuron.2021.11.017</u>](https://doi.org/10.1016/j.neuron.2021.11.017).
 
 \[<span id="governance" class="anchor"></span>1\] Developed by the
-Ethics and Governance Committee of the Canadian Open Neuroscience
-Platform. Members: Bartha Maria Knoppers (Chair), Michael Beauvais
-(Manager), Ann Cavoukian, John Clarkson, Lindsay Green-Noble, Judy Iles,
-Jason Karamchandani, Roland Nadler, Dylan Roskams-Edris, and Walter
-Stewart.
+Ethics & Data Governance Committee of the Canadian Open Neuroscience
+Platform.
